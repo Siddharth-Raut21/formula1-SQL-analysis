@@ -12,4 +12,5 @@
 9) resultId
 10) constructorResultsId
 11) qualifyId
-- Junction tables: results, lap_times, pit_stops, sprint_results act as many-to-many linkers.
+
+- Junction tables: races, results, lap_times, pit_stops, sprint_results act as many-to-many linkers.
