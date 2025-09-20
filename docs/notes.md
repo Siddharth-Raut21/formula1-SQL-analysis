@@ -1,6 +1,6 @@
 # Schema & modelling notes
 
-- Primary keys: 
+- Following are the primary keys: 
 1) driverId
 2) raceId
 3) constructorId
@@ -12,4 +12,5 @@
 9) resultId
 10) constructorResultsId
 11) qualifyId
+
 - Junction tables: results, lap_times, pit_stops, sprint_results act as many-to-many linkers.
