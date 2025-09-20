@@ -1,6 +1,6 @@
 # Schema & modelling notes
 
-- Primary keys: 
+- Following are the primary keys: 
 1) driverId
 2) raceId
 3) constructorId
