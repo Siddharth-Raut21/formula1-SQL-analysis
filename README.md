@@ -12,7 +12,7 @@
   - the production-ready SQL query,
   - minimal notes and caveats.
 - `docs/` — Modeling notes.
-- `Data/Dataset.md` — instructions to download and prepare the dataset (we don't include raw data).
+- `Data/Dataset.md` — instructions to download and prepare the dataset.
 - `results/` — sample outputs (CSV) generated from the queries (small, optional).
 
 ---
