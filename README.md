@@ -22,7 +22,7 @@
 Dataset used: *Formula 1 World Championship (1950–2024)* (Kaggle).  
 - `Data/Dataset.md`- Get the dataset from the given link.
 
-**Important:** This repository does not contain the raw dataset. You must download CSVs from the provided Kaggle link and import them into a MySQL (or PostgreSQL) instance. See `data/README.md`.
+**Note:** This repository does not contain the raw dataset. You must download CSVs from the provided link and import them into a MySQL instance. See `data/README.md`.
 
 ---
 
